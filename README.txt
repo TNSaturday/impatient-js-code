@@ -1,5 +1,3 @@
-# Code for “JavaScript for impatient programmers”
-
 ## Installation
 
 1. Requirement: Node.js must be installed. https://nodejs.org/
